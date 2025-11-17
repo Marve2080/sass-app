@@ -82,7 +82,7 @@ const CompanionsList = ({ title, companions, classNames }: CompanionsListProps) 
                 </TableBody>
             </Table>
         </article>
-    )
+    )k
 }
 
 export default CompanionsList;
